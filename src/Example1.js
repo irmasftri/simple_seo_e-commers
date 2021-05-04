@@ -5,7 +5,7 @@ import logo from './image/logo.png';
 class Example1 extends Component {
 	render() {
 		return (
-            <section class="atas">
+            <section className="atas">
                 <div>
                     <ul id='head'>
                         <li><img height='50' src={logo} alt='Logo'/></li>
