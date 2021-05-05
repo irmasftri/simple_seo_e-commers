@@ -4,20 +4,20 @@
     "brand": "tiffany",
     "name": "BASIC COAT KUMA KAWAII HOODIE",
     "color": "Yellow",
-    "price": "Rp287.000",
+    "price": "287.000",
     "priceCurrency": "IDR",
     "image":"https://ae01.alicdn.com/kf/Hc2ab581270e64d5dbdbdbf32bacfa524W.jpg?width=750&height=750&hash=1500",
     "offers": {
       "@type": "AggregateOffer",
-      "lowPrice": "Rp287.000",
-      "highPrice": "Rp287.000",
+      "lowPrice": "287.000",
+      "highPrice": "287.000",
       "priceCurrency": "IDR",
       "offerCount": "5",
       "offers": [
         {
           "@type": "Offer",
           "color": "Blue",
-          "price": "Rp287.000",
+          "price": "287.000",
           "priceCurrency": "IDR",
           "image":"https://scontent.ftkg1-1.fna.fbcdn.net/v/t1.6435-0/p600x600/180213601_1682531618585927_8080972026244549948_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeFcJUvo5dKmgd04X_vN6wpAWMWk0CUQxpZYxaTQJRDGlmff67xHwKbpjZH-kC0N2gAF6nBjK3X5yHGZiN8XCEcD&_nc_ohc=Qtm7Pdmhm5UAX-IfHlx&_nc_ht=scontent.ftkg1-1.fna&tp=6&oh=86e69b25cf48f4571c452bfa0ea0cce9&oe=60B4A639",
           "availability": "https://schema.org/OutOfStock"
@@ -25,7 +25,7 @@
         {
           "@type": "Offer",
           "color": "Green",
-          "price": "Rp287.000",
+          "price": "287.000",
           "priceCurrency": "IDR",
           "image": "https://scontent.ftkg1-1.fna.fbcdn.net/v/t1.6435-9/180852213_1682531611919261_6765576061598880059_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEBf-MJrdQt5y4nXfWFW9jdyCq8AJv3UMbIKrwAm_dQxmjfL0loOEk1MtAYrqLIrq9y6UlTQVGhPcOqM5-Ps4a0&_nc_ohc=o58XOLwam9wAX8XdQIw&_nc_ht=scontent.ftkg1-1.fna&oh=33974fc8c76f27f749c40666609600bc&oe=60B33839",
           "availability": "https://schema.org/OutOfStock"
@@ -33,7 +33,7 @@
         {
           "@type": "Offer",
           "color": "Brown",
-          "price": "Rp287.000",
+          "price": "287.000",
           "priceCurrency": "IDR",
           "image": "https://scontent.ftkg1-1.fna.fbcdn.net/v/t1.6435-9/180730911_1682531585252597_7780112615520827775_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEYpssRqrIl_HrEp9UrPKWMgaUJJtUNuKiBpQkm1Q24qCqMOON4x-REY6c1gZ61-JSNHhkRyLIgbRdztFkWDXiD&_nc_ohc=6eHk1yi3KyUAX_kyBiu&_nc_ht=scontent.ftkg1-1.fna&oh=5835e2b0b973689866c6f9934e2b3d3a&oe=60B3963C",
           "availability": "https://schema.org/InStock"
@@ -41,7 +41,7 @@
         {
           "@type": "Offer",
           "color": "Pink",
-          "price": "Rp287.000",
+          "price": "287.000",
           "priceCurrency": "IDR",
           "image": "https://scontent.ftkg1-1.fna.fbcdn.net/v/t1.6435-9/179669939_1682531665252589_692393378575007343_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeEZ2N30hSQTXBF-5Oubsr8PJ7YYzUW4eDUnthjNRbh4NfoXQmjDHH21ZzGA_DEqm9p78yEdRm7DLzN6WsuOuX5Q&_nc_ohc=XMMiBOD8oZYAX9RQhSg&_nc_ht=scontent.ftkg1-1.fna&oh=69404098b08ba75b03801e5b6923acc3&oe=60B4AE96",
           "availability": "https://schema.org/InStock"
@@ -49,7 +49,7 @@
         {
           "@type": "Offer",
           "color": "Purple",
-          "price": "Rp287.000",
+          "price": "287.000",
           "priceCurrency": "IDR",
           "image": "https://scontent.ftkg1-1.fna.fbcdn.net/v/t1.6435-9/180286986_1682531691919253_2878491933882590235_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_eui2=AeF2zrZla3bgMY5PZ88fR0T91FiLSoUyYDXUWItKhTJgNTLCw796DEYm6Y8U8fS12JVPv7KwGb1iHFF2sTpd1gpu&_nc_ohc=3p-2FiEGW8wAX9E8do4&_nc_oc=AQlgz5FNtLE6ZVjaBBQLlxpGRh0Mv6hoAl9j4MIISPGl0Dxr2Gvfj9UhBWQOX0BIvlI&_nc_ht=scontent.ftkg1-1.fna&oh=e640c6fd79d378496fbc52c5227258ea&oe=60B548F3",
           "availability": "https://schema.org/InStock"
