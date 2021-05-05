@@ -9,6 +9,8 @@
     "image":"https://ae01.alicdn.com/kf/Hc2ab581270e64d5dbdbdbf32bacfa524W.jpg?width=750&height=750&hash=1500",
     "offers": {
       "@type": "AggregateOffer",
+      "lowPrice": "Rp287.000",
+      "highPrice": "Rp287.000",
       "priceCurrency": "IDR",
       "offerCount": "5",
       "offers": [
